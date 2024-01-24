@@ -1,0 +1,4 @@
+.App{
+    width: calc(100vw - 30px);
+    height: 100vh;
+}

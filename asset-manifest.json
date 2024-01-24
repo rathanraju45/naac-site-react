@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a1bc5d77.css",
+    "main.js": "./static/js/main.c8bafc0b.js",
+    "static/media/ece.pdf": "./static/media/ece.517c7db52985a6375a3b.pdf",
+    "static/media/eee.pdf": "./static/media/eee.5a256c36c48767b9fc09.pdf",
+    "static/media/cse.pdf": "./static/media/cse.be1e83299c365509f0d6.pdf",
+    "static/media/it.pdf": "./static/media/it.525744377229571ea153.pdf",
+    "static/media/civil.pdf": "./static/media/civil.86ea787e0e5a4753feba.pdf",
+    "static/media/me.pdf": "./static/media/me.3a0e52392c5afc6841cd.pdf",
+    "static/media/aiml.pdf": "./static/media/aiml.aba717862591e5c52739.pdf",
+    "static/media/aids.pdf": "./static/media/aids.4bf5f7de340b03a2edd2.pdf",
+    "static/media/mba.pdf": "./static/media/mba.d93e3764dabebb157cd5.pdf",
+    "static/media/pde.pdf": "./static/media/pde.1bbe5288045befd5a131.pdf",
+    "static/media/mca.pdf": "./static/media/mca.3699359b2a36c7328ed6.pdf",
+    "static/media/vlsies.pdf": "./static/media/vlsies.da5e2fe3a51acaccbdc0.pdf",
+    "static/media/Banner.jpg": "./static/media/Banner.d891151a149c047c15d2.jpg",
+    "static/media/HeaderLogo.png": "./static/media/HeaderLogo.5a4befbad21c2c4172bb.png",
+    "index.html": "./index.html",
+    "main.a1bc5d77.css.map": "./static/css/main.a1bc5d77.css.map",
+    "main.c8bafc0b.js.map": "./static/js/main.c8bafc0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bc5d77.css",
+    "static/js/main.c8bafc0b.js"
+  ]
+}
